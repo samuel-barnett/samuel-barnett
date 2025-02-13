@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sam Barnett <img height="40" src="https://emoji.gg/emoji/44476-froggydance"></h1>
+<h1 align="center">Hi 👋, I'm Sam Barnett <img height="40" <a href="https://emoji.gg/emoji/44476-froggydance"><img src="https://cdn3.emoji.gg/emojis/44476-froggydance.gif" width="64px" height="64px" alt="froggydance"></a></h1>
 <h3 align="center">A passionate game programmer from Maine set to gradutate from Champlain College this May</h3>
 
 - 👨‍🎓 I’m currently working on my **Completing My Degree**
