@@ -3,7 +3,7 @@
 
 - 👨‍🎓 Just Completed **My Degree in Game Programming** at Champlain College
 
-- 📝 I’m looking for job oppurtunities in **Video Game/Software Development**
+- 📝 I’m looking for job opportunities in **Video Game/Software Development**
 
 - 📫 How to reach me: **samuelbarnett2002@gmail.com**
 
